@@ -19,4 +19,4 @@
 4. 문의
 TikTok: hucompany8588@gmail.com
 
-tiktok-developers-site-verification=p3SCszHm1nWTwpz7SpfhoivN69zkguEB
+tiktok-developers-site-verification=dlxUSVzt9GO22UeOs32qlHAPY14U9PWF
