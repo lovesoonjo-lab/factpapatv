@@ -1,4 +1,4 @@
-# factpapatv
+tiktok-developers-site-verification=dlxUSVzt9GO22UeOs32qlHAPY14U9PWF
 
 팩트파파TV 이용약관
 
